@@ -98,7 +98,7 @@ A collection of awesome things regarding Create React App ecosystem.
 - [Create React App - What's All the Fuss About?](https://www.youtube.com/watch?v=wLgHjZM4pWM)
 - [Create React App With ExpressJS and Now](https://www.youtube.com/watch?v=HfAPmRpxQEY)
 - [Migrate to Create React App](https://www.youtube.com/watch?v=g8O0FT0uoDA)
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/ai-app-development) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Use Create-React-App to Setup a Simple React App](https://egghead.io/lessons/react-react-fundamentals-development-environment-setup)
 - [Why I Love Create React App (React Allicante 2017)](https://www.youtube.com/watch?v=Jn18gZ9jO0U)
 
